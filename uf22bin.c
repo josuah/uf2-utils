@@ -13,7 +13,6 @@
 
 void uf22bin(FILE *in, int fd_out, off_t start_address) {
     UF2_Block uf2;
-    size_t output_len = 0;
 
     // read UF2 blocks from input file
     while (uf2_read_block(&uf2, in))
