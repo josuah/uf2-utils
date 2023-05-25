@@ -1,7 +1,8 @@
 # UF2 utils
 
 A toolbox for working with the UF2 format,
-part of the [`pico-ice-sdk`](pico_ice_sdk.html).
+split out from the [`pico-ice-sdk`](pico_ice_sdk.html)
+from where they were first written.
 
 They can be used for:
 
